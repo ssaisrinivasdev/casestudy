@@ -1,0 +1,16 @@
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\bin\Debug\net5.0\workOrHoliday2.exe
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\bin\Debug\net5.0\workOrHoliday2.deps.json
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\bin\Debug\net5.0\workOrHoliday2.runtimeconfig.json
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\bin\Debug\net5.0\workOrHoliday2.runtimeconfig.dev.json
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\bin\Debug\net5.0\workOrHoliday2.dll
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\bin\Debug\net5.0\ref\workOrHoliday2.dll
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\bin\Debug\net5.0\workOrHoliday2.pdb
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.csproj.AssemblyReference.cache
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.AssemblyInfoInputs.cache
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.AssemblyInfo.cs
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.csproj.CoreCompileInputs.cache
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.dll
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\ref\workOrHoliday2.dll
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.pdb
+E:\dotnet_tr\workOrHoliday2\workOrHoliday2\obj\Debug\net5.0\workOrHoliday2.genruntimeconfig.cache

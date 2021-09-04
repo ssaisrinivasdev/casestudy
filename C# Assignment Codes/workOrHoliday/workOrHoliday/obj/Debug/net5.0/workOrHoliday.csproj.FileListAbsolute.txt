@@ -1,0 +1,32 @@
+E:\dotnet_tr\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.exe
+E:\dotnet_tr\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.deps.json
+E:\dotnet_tr\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.runtimeconfig.json
+E:\dotnet_tr\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.runtimeconfig.dev.json
+E:\dotnet_tr\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.dll
+E:\dotnet_tr\workOrHoliday\workOrHoliday\bin\Debug\net5.0\ref\workOrHoliday.dll
+E:\dotnet_tr\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.pdb
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.AssemblyInfoInputs.cache
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.AssemblyInfo.cs
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.csproj.CoreCompileInputs.cache
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.dll
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\ref\workOrHoliday.dll
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.pdb
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.genruntimeconfig.cache
+E:\dotnet_tr\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.csproj.AssemblyReference.cache
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.exe
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.deps.json
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.runtimeconfig.json
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.runtimeconfig.dev.json
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.dll
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\bin\Debug\net5.0\ref\workOrHoliday.dll
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\bin\Debug\net5.0\workOrHoliday.pdb
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.csproj.AssemblyReference.cache
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.GeneratedMSBuildEditorConfig.editorconfig
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.AssemblyInfoInputs.cache
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.AssemblyInfo.cs
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.csproj.CoreCompileInputs.cache
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.dll
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\ref\workOrHoliday.dll
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.pdb
+E:\casestudy_er\C# Assignment Codes\workOrHoliday\workOrHoliday\obj\Debug\net5.0\workOrHoliday.genruntimeconfig.cache
