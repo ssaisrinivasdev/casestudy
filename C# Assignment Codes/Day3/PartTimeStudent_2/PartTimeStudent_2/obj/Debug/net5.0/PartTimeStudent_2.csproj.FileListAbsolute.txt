@@ -1,0 +1,16 @@
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\bin\Debug\net5.0\PartTimeStudent_2.exe
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\bin\Debug\net5.0\PartTimeStudent_2.deps.json
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\bin\Debug\net5.0\PartTimeStudent_2.runtimeconfig.json
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\bin\Debug\net5.0\PartTimeStudent_2.runtimeconfig.dev.json
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\bin\Debug\net5.0\PartTimeStudent_2.dll
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\bin\Debug\net5.0\ref\PartTimeStudent_2.dll
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\bin\Debug\net5.0\PartTimeStudent_2.pdb
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.csproj.AssemblyReference.cache
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.AssemblyInfoInputs.cache
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.AssemblyInfo.cs
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.csproj.CoreCompileInputs.cache
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.dll
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\ref\PartTimeStudent_2.dll
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.pdb
+E:\dotnet_tr\PartTimeStudent_2\PartTimeStudent_2\obj\Debug\net5.0\PartTimeStudent_2.genruntimeconfig.cache
