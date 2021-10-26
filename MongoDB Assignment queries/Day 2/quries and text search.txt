@@ -1,0 +1,13 @@
+db.movies.find({})
+db.movies.find({ writer : "Quentin Tarantino" })
+db.movies.find({ actors :  "Brad Pitt" })
+db.movies.find({ franchise : "The Hobbit" })
+db.movies.find({year:{$gt:"1990", $lt:"2000"}})
+db.movies.find({$or:[{year:{$gt:"2010"}},{year: {$lt:"2000"}}]})
+
+
+db.movies.find({synopsis: /Gandalf/}).pretty()
+db.movies.find({synopsis: /Bilbo/}).pretty()
+db.movies.find({synopsis:{$regex:/Bilbo/,$not:/Gandalf/} }).pretty()
+db.movies.find({$or:[{synopsis: /dwarves/},{synopsis:/hobbit/}]}).pretty()
+db.movies.find({$and:[{synopsis: /gold/},{synopsis:/dragon/}]}).pretty() 
